@@ -10,5 +10,6 @@
     - conda create -n xxx python=3.6:创建python版本为3.6
     的虚拟环境，名称为xxx 
     - source activate xxx:激活xxx虚拟环境
+    - 我在这里新加一句，测试一下
     
     
